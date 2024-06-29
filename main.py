@@ -1,6 +1,3 @@
-# კატეგორიზაცია(Best Practice) , საინფორმაციო ტიპის ბოტი უნდა მიდიოდეს პაინქონის ბაზაში
-# უნდა მოქონდეს რელევანტური დოკუმენტი და იმაზე დაყრდნობით უნდა გცემდეს პასუხებს
-
 import os
 from dotenv import load_dotenv
 from openai import OpenAI
