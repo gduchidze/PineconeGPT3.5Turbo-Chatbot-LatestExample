@@ -1,3 +1,2 @@
 openai
 pinecone-client
-datasets
